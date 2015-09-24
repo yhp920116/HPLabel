@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'HPLabel_Example', :exclusive => true do
+  pod "HPLabel", :path => "../"
+end
+
+target 'HPLabel_Tests', :exclusive => true do
+  pod "HPLabel", :path => "../"
+
+  
+end
