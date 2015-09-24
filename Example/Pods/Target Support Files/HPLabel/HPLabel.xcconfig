@@ -1,0 +1,1 @@
+HPLABEL_OTHER_LDFLAGS = -l"c++" -framework "MapKit" -framework "UIKit"

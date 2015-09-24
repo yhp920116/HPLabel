@@ -8,14 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = "HPLabel"
-  s.version          = "0.1.0"
+  s.version          = "0.1.2"
   s.summary          = "A subclass of UILabel that provides pod-creating learning."
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
                         This cocoapod provides pratice of how-to-creating-pods learning.
                             just enjoy it.
@@ -36,7 +30,7 @@ Pod::Spec.new do |s|
     'HPLabel' => ['Pod/Assets/*.png']
   }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  #s.public_header_files = 'Pod/Classes/**/*.h'
+  #s.frameworks = 'UIKit', 'MapKit'
+  #s.library = 'c++'
 end
