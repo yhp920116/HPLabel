@@ -1,0 +1,14 @@
+PODS:
+  - HPLabel (0.1.0)
+
+DEPENDENCIES:
+  - HPLabel (from `../`)
+
+EXTERNAL SOURCES:
+  HPLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HPLabel: 2fbdb2545ef507135d552e21c581c1fd8a663908
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,6 @@
+framework module HPLabel {
+  umbrella header "HPLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

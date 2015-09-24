@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "HPLabel"
   s.version          = "0.1.0"
-  s.summary          = "A short description of HPLabel."
+  s.summary          = "A subclass of UILabel that provides pod-creating learning."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,6 +17,8 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                        This cocoapod provides pratice of how-to-creating-pods learning.
+                            just enjoy it.
                        DESC
 
   s.homepage         = "https://github.com/<GITHUB_USERNAME>/HPLabel"
