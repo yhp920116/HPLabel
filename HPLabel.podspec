@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "HPLabel"
-  s.version          = "0.1.2"
+  s.version          = "0.1.1"
   s.summary          = "A subclass of UILabel that provides pod-creating learning."
   s.description      = <<-DESC
                         This cocoapod provides pratice of how-to-creating-pods learning.
