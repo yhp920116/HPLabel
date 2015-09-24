@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
                             just enjoy it.
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/HPLabel"
+  s.homepage         = "https://github.com/yhp920116/HPLabel"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Dan" => "yhp920116@sina.cn" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/HPLabel.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/yhp920116/HPLabel.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'
